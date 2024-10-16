@@ -1,1 +1,3 @@
-![image](https://github.com/user-attachments/assets/a7770fd8-605e-4639-8f7f-75acf1ce0ba3)
+<a href="https://june1193.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/TISTORY-000000?style=for-the-badge&logo=TISTORY&logoColor=white">
+</a>
