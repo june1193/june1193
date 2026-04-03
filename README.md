@@ -3,8 +3,5 @@
 </div>
 
 <div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=june1193&layout=compact&theme=synthwave)
-  <br>
   [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=june1193)](https://solved.ac/june1193)
 </div>
